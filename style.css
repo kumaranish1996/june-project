@@ -1,0 +1,52 @@
+.navbar .col3 {
+ width:100%;
+ 
+}
+.navbar .col3{
+ margin:50px;
+}
+
+.navbar  .col4{
+position: relative;
+width:100%;
+}
+
+.navbar .col6{
+  background-color:rgb(61, 246, 61);
+  color:white;
+  shape-outside:round;
+
+}
+.section img{
+width:100%;
+height:120px;
+}
+
+.run img{
+width:200px;
+height:140px;
+}
+
+.item1 img{
+width:120px;
+height:120px;
+}
+
+.item2 .col {
+width:50px;
+display:flex;
+margin:10px;
+}
+
+.item2 img{
+width:110px;
+}
+.item2 .col1{
+ border:1px solid #cccaca;
+ padding:5px;
+margin:0px 15px;
+}
+
+.item6 p{
+ align-items:center;
+}
